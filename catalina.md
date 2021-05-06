@@ -4,8 +4,7 @@ These [Google slides](https://docs.google.com/presentation/d/1_2ybhWlbg_Y_NrTQ_F
 
 You can contact me *(lists need a carriage return before list items)*: 
 
-- twitter: [@juliesquid](https://twitter.com/juliesquid)
-- github: [@jules32](https://github.com/jules32)
+- github: [@ScienceCat18](https://github.com/ScienceCat18)
 
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
@@ -15,6 +14,7 @@ Name | Twitter | GitHub
 -----|---------|--------
 Erin | [@connector_erin](https://twitter.com/connector_erin) | [@erinmr](https://github.com/erinmr)
 Amanda |  | [@amandatan](https://github.com/amandatan)
+Catalina | [@ScienceCat18](https://github.com/ScienceCat18)
 
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
 
