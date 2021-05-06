@@ -23,4 +23,4 @@ I also talked about GitHub for science – and can include an image with the sam
 
 Second line of new text and more text here 
 
-![](https://octodex.github.com/images/labtocat.png)
+![](https://octodex.github.com/images/yogitocat.png)
