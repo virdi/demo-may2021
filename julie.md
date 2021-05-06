@@ -2,8 +2,8 @@
 
 These [Google slides](https://docs.google.com/presentation/d/1_2ybhWlbg_Y_NrTQ_FF8JqqmbsstCkt5IKZqHmwDtFg/edit?usp=sharing) from March 2021 give a 15-minute overview of our NASA-Openscapes project. We now also have a website: <https://nasa-openscapes.github.io>.
 
-- twitter: [@juliesquid](https://twitter.com/juliesquid)
-- github: [@jules32](https://github.com/jules32)
+- new list
+- of things
 
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
