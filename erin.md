@@ -6,7 +6,7 @@ You can contact me *(lists need a carriage return before list items)*:
 
 - twitter: [@juliesquid](https://twitter.com/juliesquid)
 - github: [@jules32](https://github.com/jules32)
-
+- 
 
 Here is a table with some collaborators *(tables use `|`s and `-`s to separate columns and rows)*:
 
@@ -20,5 +20,7 @@ Test |  |
 Have you noticed the `[]()` pattern to make links in Markdown? Put words to hyperlink in `[]` and the URL in `()`. 
 
 I also talked about GitHub for science – and can include an image with the same format, but note the preceding exclamation point: `![]()` (From the browser, you'll need an image with an existing url). 
+
+Second line of new text and more text here 
 
 ![](https://octodex.github.com/images/labtocat.png)
